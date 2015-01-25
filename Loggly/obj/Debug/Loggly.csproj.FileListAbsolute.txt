@@ -1,0 +1,7 @@
+\\psf\Home\Documents\GitHub\logglyAppender\logglyAppender\Loggly\bin\Debug\Loggly.exe.config
+\\psf\Home\Documents\GitHub\logglyAppender\logglyAppender\Loggly\bin\Debug\Loggly.exe
+\\psf\Home\Documents\GitHub\logglyAppender\logglyAppender\Loggly\bin\Debug\Loggly.pdb
+\\psf\Home\Documents\GitHub\logglyAppender\logglyAppender\Loggly\bin\Debug\log4net.dll
+\\psf\Home\Documents\GitHub\logglyAppender\logglyAppender\Loggly\bin\Debug\log4net.xml
+\\psf\Home\Documents\GitHub\logglyAppender\logglyAppender\Loggly\obj\Debug\Loggly.exe
+\\psf\Home\Documents\GitHub\logglyAppender\logglyAppender\Loggly\obj\Debug\Loggly.pdb
